@@ -1,6 +1,6 @@
 package Practice_For_Interview;
 
-public class Vowels_Consonants_Counts {
+public class String_Vowels_Consonants_Counts {
     public static void main(String[]args){
         String Str = "Automation";
         int Vowels = 0, Consonants=0;

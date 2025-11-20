@@ -5,7 +5,8 @@ import java.util.Arrays;
 public class Anagram_Number {
     public static void main(String[] args) {
        // String str1 = "Listen", str2="Scilent";
-        String str1 = "heart", str2="earth";
+        String str1 = "heart";
+        String str2="earth";
         char[]arr1 = str1.toCharArray();
         char[]arr2 = str2.toCharArray();
         Arrays.sort(arr1);

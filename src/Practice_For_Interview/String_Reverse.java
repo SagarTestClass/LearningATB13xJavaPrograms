@@ -1,6 +1,6 @@
 package Practice_For_Interview;
 
-public class Reverse_String {
+public class String_Reverse {
     public static void main(String[]args){
         String Str= "Automation"; //Input
         StringBuilder Reversed_Str = new StringBuilder(Str).reverse();
