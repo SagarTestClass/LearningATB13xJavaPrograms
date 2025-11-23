@@ -18,6 +18,7 @@ public class Lab034_Char_Literal {
 
         System.out.println("PramodDutta");
         System.out.println("Pramod"+new_line+"Dutta");
+        System.out.println("Pramod  Dutta");
         System.out.println("Pramod"+tab_line+"Dutta");
         System.out.println("Pramod"+back_space+"Dutta");
         System.out.println("Pramod is old"+carriage_return+"Dutta");

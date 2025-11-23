@@ -11,7 +11,6 @@ public class Lab038_Unary_Operator {
         System.out.println(a1);
         System.out.println(result);
 
-
         int b = -1;
         b = b+1;
         System.out.println(b);

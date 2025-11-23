@@ -14,7 +14,13 @@ public class Lab040_Relational_Operators {
         int a = 10;
         int b = 30;
         boolean c = a > b; // 10 >30
-        System.out.println(c);
+//        System.out.println(c);
+        System.out.println(a<b);
+        System.out.println(a<=b);
+        System.out.println(a>b);
+        System.out.println(a>=b);
+        System.out.println(a==b);
+        System.out.println(a!=b);
 
         int age_mamitha = 33;
         int age_pramod = 34;
